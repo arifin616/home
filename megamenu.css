@@ -181,14 +181,14 @@ a {
 }
 .box2:hover{
   transition: 0.8s;
-  width: 300px;
+  width: 400px;
   border-radius: 10px;s
 }
 .help {
     display: none;
 }
 .box2:hover .help {
-    display: block;
+    display: inline;
 }
 .box2:hover .arc {
     display: none;
