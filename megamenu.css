@@ -182,13 +182,16 @@ a {
 .box2:hover{
   transition: 0.8s;
   width: 400px;
-  border-radius: 10px;s
+  border-radius: 20px;s
 }
 .help {
     display: none;
 }
 .box2:hover .help {
     display: inline;
+    display: flex;
+  justify-content: center;
+  align-items: center;
 }
 .box2:hover .arc {
     display: none;
