@@ -188,7 +188,7 @@ a {
     display: none;
 }
 .box2:hover .help {
-    display: inline;
+    display: block;
 }
 .box2:hover .arc {
     display: none;
